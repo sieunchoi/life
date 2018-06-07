@@ -203,8 +203,3 @@ footer{
 }
 .outline_right{
 }
-
-
-@media (min-width:992px) {
-  .main-bottom{padding-top: 50px;}
-}

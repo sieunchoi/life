@@ -503,26 +503,3 @@ ul.social li:hover .social-youtube {background-position: -85px -25px;}
     height: 100%;
   background-size: contain;
 }
-
-
-
-
-
-
-
-/* 스마트폰 0~767px xs*/
-@media (max-width:767px) {
-}
-
-/* 태블릿 768px이상 sm */
-
-@media (max-width: 992px){
-	#navigation, [class*="scroll_"], .lang, ul.social {display: none;}
-	.section{margin: auto; padding: 80px 20px 50px;}
-}
-
-/* 작은데스크탑 992px이상 md */
-@media (min-width:991px) and (max-width:1024px){
-	.section{margin-left: 200px;}
-
-}
